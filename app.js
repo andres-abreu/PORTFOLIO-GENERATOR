@@ -1,2 +1,2 @@
-var commandLindArgs = process.argv;
+var commandLinedArgs = process.argv;
 console.log(commandLineArgs);
