@@ -1,4 +1,4 @@
-const printProfileData = (profileDataArr) => {
+const printProfileData = 'profileDataArr' => {
   console.log(profileDataArr);
 };
 
